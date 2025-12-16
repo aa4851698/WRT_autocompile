@@ -1082,7 +1082,6 @@ main() {
     update_feeds
     remove_unwanted_packages
     remove_tweaked_packages
-    fix_default_set
     fix_miniupnpd
     update_golang
     change_dnsmasq2full
